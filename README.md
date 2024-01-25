@@ -38,7 +38,7 @@ And I'm glad to learn much more!
     <a href="https://www.python.org" target="_blank" title ="Python"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a>
-   <a href="https://julialang.org" target="_blank" title ="Python"> <img
+   <a href="https://julialang.org" target="_blank" title ="Julia"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg"
             alt="julia" width="40" height="40" /> </a>
    <a href="https://www.haskell.org" target="_blank" title ="Haskell"> <img
@@ -46,7 +46,7 @@ And I'm glad to learn much more!
             alt="haskell" width="40" height="40" /> </a>
     <a href="https://fortran-lang.org" target="_blank" title ="FORTRAN"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg"
-            alt="python" width="40" height="40" /> </a>
+            alt="fortran" width="40" height="40" /> </a>
     <a href="https://gcc.gnu.org" target="_blank" title ="GCC"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg"
             alt="GCC" width="40" height="40" /> </a>
@@ -59,10 +59,10 @@ And I'm glad to learn much more!
 ## I'm trying my best!
 
 ```text
-🌞 Morning (Making coffee)                  57 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
-🌆 Daytime (Drinking my 2nd coffee)         87 commits    ██████░░░░░░░░░░░░░░░░░░░   26.93% 
-🌃 Evening (Watching cat videos)            42 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
-🌙 Night (Probably watching cartoons)      137 commits    ██████████░░░░░░░░░░░░░░░   42.41%
+🌞 Morning (Making coffee)                    57 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+🌆 Daytime (Drinking my 2nd coffee)           87 commits    ██████░░░░░░░░░░░░░░░░░░░   26.93% 
+🌃 Evening (Watching cat videos)              42 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
+🌙 Night   (Having an existencial crisis)    137 commits    ██████████░░░░░░░░░░░░░░░   42.41%
 ```
 
 ## I'm Most Productive on Thursday!
