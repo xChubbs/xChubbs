@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width=360px height=260px alt="side_sticker" src="https://www.cs.umd.edu/~tomg/img/landscapes/noshort.png" />
-
 ## About me
 
+<img align="right" width=360px height=260px alt="side_sticker" src="https://losslandscape.com/wp-content/uploads/2019/09/loss-landscape-research15.png" />
+
 ✔ Callme: ***He/His*** or just ***Chubbs***  <br>
-✔ I’m currently collaborating in the Scientific Computing & Molecular physics research groups **MATLAB, FORTRAN, python & a lot of TEX**<br>
+✔ I’m currently collaborating in the Scientific Computing & Molecular physics research groups: **Python, MATLAB and a lot of learning**<br>
 ✔ I’m currently learning about **Hybridizable High Order** methods and implementing **HDG** Schemes<br>
 ✔ Here it's my mail, reach me if there's anything I can help with or just send hi! **alujan@unal.edu.co**<br>
 ✔ Ask me anything you want, I'm glad to help whenever I can!<br>
@@ -49,11 +49,7 @@ And I'm glad to learn much more!
             alt="fortran" width="40" height="40" /> </a>
     <a href="https://gcc.gnu.org" target="_blank" title ="GCC"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg"
-            alt="GCC" width="40" height="40" /> </a>
-    <a href="https://www.espressif.com" target="_blank" title ="ESP32"> <img
-            src="https://seeklogo.com/images/E/espressif-systems-logo-1350B9E771-seeklogo.com.png"
-            alt="esp" width="40" height="40" /> </a>
-            
+            alt="GCC" width="40" height="40" /> </a>            
 </p> 
 
 ## I'm Most Productive on Thursday!
