@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ## About me
 
 ✔ Callme: ***He/His*** or just ***Chubbs***  <br>
-✔ I’m currently collaborating in the Scientific Computing research group **MATLAB, FORTRAN, python & a lot of TEX**<br>
-✔ I’m currently learning about **HDG**<br>
+✔ I’m currently collaborating in the Scientific Computing & Molecular physics research groups **MATLAB, FORTRAN, python & a lot of TEX**<br>
+✔ I’m currently learning about **Hybridizable High Order** methods and implementing **HDG** Schemes<br>
 ✔ Here it's my mail, reach me if there's anything I can help with or just send hi! **alujan@unal.edu.co**<br>
 ✔ Ask me anything you want, I'm glad to help whenever I can!<br>
-✔ Fun fact : *My friends call me a sad soul* <br><br>
+✔ Fun fact : *My lover says I smell like biscuits* <br><br>
 
 ## Some tools I'm used to
 And I'm glad to learn much more!
